@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/EReeeN1208/EReeeN1208/assets/52812989/d1993731-a454-4778-b56c-7c34bbfb715c" width="200" height="100">
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F02sbsxx2zrfa1.jpg%3Fwidth%3D960%26crop%3Dsmart%26auto%3Dwebp%26s%3Db3e0410a23e8f41c524e83cc51a3794e6d0d7598" width="480" height="490">
 
 <!--
 **EReeeN1208/EReeeN1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

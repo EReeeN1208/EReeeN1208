@@ -1,7 +1,3 @@
-- Student in Turkey
-- Member of frc team 6014
-- Python/Java
-
 <img src="https://github.com/EReeeN1208/EReeeN1208/blob/main/MONEY.png" width="480" height="490">
 
 <!--

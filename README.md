@@ -2,8 +2,8 @@
 - Member of frc team arc6014
 - Python/Java
 
-I'm the Backend Developer of Arcinator, a completely free and accessible FRC chatbot. Check it out:
-https://chat.arc6014.com/
+I'm the Backend Developer of Arcinator, a completely free and accessible FRC chatbot.
+Check it out here: https://chat.arc6014.com/
 
 
 

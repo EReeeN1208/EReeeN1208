@@ -1,6 +1,6 @@
 - Student in Turkey
 - Member of frc team arc6014
-- Python/Java/JS
+- Python/Java
 
 I'm the Backend Developer of Arcinator, a completely free and accessible FRC chatbot.
 
